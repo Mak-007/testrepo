@@ -1,0 +1,17 @@
+As per your request , we have conducted a comprehensive network connectivity test at the worli altimus office.
+We are pleased to confirm that all system are funtionin optimally, with no connectivity issues observed.
+please find the attachment details report attached for your reference.
+
+network status summary:
+
+
+As we connect the wifi with latest password, its working fine , hence we r closing this ticket.
+
+As we configure printer & scanner in user system , hence we r closing ticket.
+
+As we transfer the pst file , hence we r closing this ticket
+
+As we installed the Nano Heal application in user system, hence we r closing this ticket.
+
+As we checked network & attach the report over the trail mail on daily basis., hence we r closing this ticket
+
